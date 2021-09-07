@@ -9,5 +9,5 @@
 3. Линейные модели: классификация и практические аспекты
 4. Решающие деревья и композиции алгоритмов
 5. Нейронные сети и обзор методов
-[![Image alt](/logo.jpg)]
+[![](/logo.jpg)](https://www.coursera.org/specializations/mashinnoye-obucheniye)
 
