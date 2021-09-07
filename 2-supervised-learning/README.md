@@ -9,5 +9,5 @@
 3. Линейные модели: классификация и практические аспекты
 4. Решающие деревья и композиции алгоритмов
 5. Нейронные сети и обзор методов
-![](/2-supervised-learning/logo.jpg)
+[![](/2-supervised-learning/logo.jpg)](https://www.coursera.org/learn/supervised-learning/)
 
