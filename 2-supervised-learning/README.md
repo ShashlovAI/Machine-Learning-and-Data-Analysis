@@ -9,5 +9,5 @@
 3. Линейные модели: классификация и практические аспекты
 4. Решающие деревья и композиции алгоритмов
 5. Нейронные сети и обзор методов
-[![Image alt](2-supervised-learning/logo.jpg)]
+[![Image alt](Rienes/Machine-Learning-and-Data-Analysis/2-supervised-learning/logo.jpg)]
 
