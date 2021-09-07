@@ -4,7 +4,7 @@
 
 В эту специализацию входят:
 
-1. [Математика и Python для анализа данных](https://github.com/demidovakatya/mashinnoye-obucheniye/tree/master/1-mathematics-and-python)
+1. [Математика и Python для анализа данных](https://github.com/Rienes/Machine-Learning-and-Data-Analysis/tree/main/1-mathematics-and-python)
 2. [Обучение на размеченных данных](https://github.com/demidovakatya/mashinnoye-obucheniye/tree/master/2-supervised-learning)
 3. [Поиск структуры в данных](https://github.com/demidovakatya/mashinnoye-obucheniye/tree/master/3-unsupervised-learning)
 4. [Построение выводов по данным](https://github.com/demidovakatya/mashinnoye-obucheniye/tree/master/4-stats-for-data-analysis)
