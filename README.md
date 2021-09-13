@@ -5,7 +5,7 @@
 В эту специализацию входят:
 
 1. [Математика и Python для анализа данных](https://github.com/Rienes/Machine-Learning-and-Data-Analysis/tree/main/1-mathematics-and-python)
-2. [Обучение на размеченных данных] ()
+2. [Обучение на размеченных данных](https://github.com/Rienes/Machine-Learning-and-Data-Analysis/tree/main/2-supervised-learning)
 3. Поиск структуры в данных
 4. Построение выводов по данным
 5. Прикладные задачи анализа данных
